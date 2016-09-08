@@ -1,14 +1,5 @@
-<<<<<<< HEAD
 J'adore.
 Vraiment j'adore !
 Y'a comme un problème.
-
-
-
 Yes !
 Je crois oui !
-=======
-J'adore
-Vraiment j'adore !
-Mais qu'est ce qu'il se passe !
->>>>>>> master
